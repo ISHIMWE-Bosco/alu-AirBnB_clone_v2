@@ -1,5 +1,6 @@
-
-dule for console
+#!/usr/bin/python3
+"""
+Module for console
 """
 import cmd
 import re
